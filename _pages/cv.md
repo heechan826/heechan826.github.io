@@ -8,34 +8,32 @@ redirect_from:
 ---
 
 {% include base_path %}
-
+     
 Education
 ======
-- Gwangju Institute of Science and Technology (GIST)
-* Master Student in Artificial Intenlligence Graduate School (AIGS)
-* March 2022 - February 2024
+* Gwangju Institute of Science and Technology (GIST)
+  * M.S Student in Artificial Intenlligence Graduate School
+  * March 2022 - February 2024
 
-- Ulsan National Institute of Science and Technology (UNIST)
-* Master Student in Artificial Intenlligence Graduate School (AIGS)
-* August 2021 - February 2022 (drop out)
+* Ulsan National Institute of Science and Technology (UNIST)
+  * Master Student in Artificial Intenlligence Graduate School
+  * August 2021 - February 2022 (drop out)
 
-- Handong Global University
-* Bachelor of Science in Computer Science and Life Science (double major)
-* February 2016 - February 2021
+* Handong Global University
+  * Bachelor of Science in Computer Science and Life Science (double major)
+  * February 2016 - February 2021
 
 Teaching
 ======
-* Fall 2021: Teaching Assistant
-  * UNIST
+* Fall 2021: Teaching Assistant @ UNIST
   * Computer Architecture
 
-* Fall 2020: Teaching Assistant
-  * Handong Global University
+* Fall 2020: Teaching Assistant @ Handong Global University
   * Computer Architecture
   
 Skills
 ======
-* Skill 1
+* To be updated
 * Skill 2
   * Sub-skill 2.1
   * Sub-skill 2.2
@@ -44,10 +42,8 @@ Skills
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
++ To be updated
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* To be updated
