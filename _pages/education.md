@@ -6,7 +6,7 @@ author_profile: true
 #  - /education/
 #  - /education.html
 ---
-
+# Education
 
 <img align="left" src="./../images/gist.jpg" height="100x" width="100px"> 
 

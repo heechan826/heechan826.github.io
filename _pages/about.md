@@ -1,12 +1,13 @@
 ---
 permalink: /
-title: "About me"
+title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+# About me
 
 I am a M.S Student in Artificial Intenlligence Graduate School (AIGS) at Gwangju Institute of Science and Technology (GIST), advised by Prof. Jin-Hyuk Hong and part of the [Soft Computing & Interaction (SCI) Lab](https://iit.gist.ac.kr/sci/index.do).
 
