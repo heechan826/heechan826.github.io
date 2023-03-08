@@ -9,8 +9,9 @@ redirect_from:
 
 {% include base_path %}
      
-Education
-======
+# Education
+<hr/>
+
 * Gwangju Institute of Science and Technology (GIST)
   * M.S Student in Artificial Intenlligence Graduate School
   * March 2022 - February 2024
@@ -23,7 +24,7 @@ Education
   * Bachelor of Science in Computer Science and Life Science (double major)
   * February 2016 - February 2021
 
-Teaching
+# Teaching
 ======
 * Fall 2021: Teaching Assistant @ UNIST
   * Computer Architecture
@@ -31,14 +32,14 @@ Teaching
 * Fall 2020: Teaching Assistant @ Handong Global University
   * Computer Architecture
   
-Skills
+# Skills
 ======
 * To be updated
 
-Publications
+# Publications
 ======
 + To be updated
   
-Service and leadership
+# Service and leadership
 ======
 * To be updated

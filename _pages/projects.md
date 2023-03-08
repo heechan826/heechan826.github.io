@@ -7,5 +7,6 @@ author_profile: true
 #  - /project.html
 ---
 # Projects
+<hr/>
 
 * To be updated

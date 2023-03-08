@@ -7,6 +7,7 @@ author_profile: true
 #  - /education.html
 ---
 # Education
+<hr/>
 
 <img align="left" src="./../images/gist.jpg" height="100x" width="100px"> 
 
