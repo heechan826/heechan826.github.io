@@ -28,7 +28,7 @@ author_profile: true
 **August 2021 - February 2022 (drop out)**
 
 
-<br/>
+<br/> 
 <img align="left" src="./../images/hgu.png" height="100x" width="100px">
 
 **Handong Global University**
