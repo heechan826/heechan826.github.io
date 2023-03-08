@@ -15,7 +15,7 @@ Gwangju Institute of Science and Technology (GIST)
 <br/>
   M.S Student in Artificial Intenlligence Graduate School
 <br/>
-  March 2022 - February 2024
+  March 2022 - February 2024 (Expected)
 
 
 <br/>
