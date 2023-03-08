@@ -7,7 +7,7 @@ author_profile: true
 #  - /education.html
 ---
 
-<img align="left" src="./../images/gist.jpg">
+<img align="left" src="./../images/gist.jpg"> 
 
 * Gwangju Institute of Science and Technology (GIST)
   * M.S Student in Artificial Intenlligence Graduate School
