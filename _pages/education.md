@@ -14,9 +14,6 @@ author_profile: true
   * M.S Student in Artificial Intenlligence Graduate School
   * March 2022 - February 2024
 
-<br/><br/>
-<br/><br/>
-
 
 <img align="left" src="./../images/unist.png" height="100x" width="100px">
 
@@ -24,15 +21,9 @@ author_profile: true
   * Master Student in Artificial Intenlligence Graduate School
   * August 2021 - February 2022 (drop out)
 
-<br/><br/>
-<br/><br/>
-
 
 <img align="left" src="./../images/hgu.png" height="100x" width="100px">
 
 * Handong Global University
   * Bachelor of Science in Computer Science and Life Science (double major)
   * February 2016 - February 2021
-
-<br/><br/>
-<br/><br/>
