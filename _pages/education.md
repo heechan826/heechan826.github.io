@@ -14,13 +14,11 @@ author_profile: true
   * M.S Student in Artificial Intenlligence Graduate School
   * March 2022 - February 2024
 
-
 <img align="left" src="./../images/unist.png" height="100x" width="100px">
 
 * Ulsan National Institute of Science and Technology (UNIST)
   * Master Student in Artificial Intenlligence Graduate School
   * August 2021 - February 2022 (drop out)
-
 
 <img align="left" src="./../images/hgu.png" height="100x" width="100px">
 
