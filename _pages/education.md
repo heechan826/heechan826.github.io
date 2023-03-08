@@ -13,11 +13,9 @@ author_profile: true
 
 **Gwangju Institute of Science and Technology (GIST)**
 <br/> 
-&#160;
 
 **M.S Student in Artificial Intenlligence Graduate School** 
 <br/>
-&#160;
 
 **March 2022 - February 2024 (Expected)** 
 
@@ -27,11 +25,9 @@ author_profile: true
 
 **Ulsan National Institute of Science and Technology (UNIST)**
 <br/>
-&#160;
 
 **Master Student in Artificial Intenlligence Graduate School**
 <br/>
-&#160;
 
 **August 2021 - February 2022 (drop out)**
 
@@ -41,10 +37,8 @@ author_profile: true
 
 **Handong Global University**
 <br/>
-&#160;
 
 **Bachelor of Science in Computer Science and Life Science (double major)**
 <br/>
-&#160;
 
 **February 2016 - February 2021**
