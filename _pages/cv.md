@@ -25,7 +25,7 @@ redirect_from:
   * February 2016 - February 2021
 
 # Teaching
-======
+<hr/>
 * Fall 2021: Teaching Assistant @ UNIST
   * Computer Architecture
 
@@ -33,13 +33,13 @@ redirect_from:
   * Computer Architecture
   
 # Skills
-======
+<hr/>
 * To be updated
 
 # Publications
-======
+<hr/>
 + To be updated
   
 # Service and leadership
-======
+<hr/>
 * To be updated
