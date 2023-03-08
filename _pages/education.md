@@ -17,6 +17,9 @@ Gwangju Institute of Science and Technology (GIST)
 <br/>
   March 2022 - February 2024
 
+
+<br/>
+<br/>
 <img align="left" src="./../images/unist.png" height="100x" width="100px">
 
 Ulsan National Institute of Science and Technology (UNIST)
@@ -25,6 +28,9 @@ Ulsan National Institute of Science and Technology (UNIST)
 <br/>
   August 2021 - February 2022 (drop out)
 
+
+<br/>
+<br/>
 <img align="left" src="./../images/hgu.png" height="100x" width="100px">
 
 Handong Global University
