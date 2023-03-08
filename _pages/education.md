@@ -19,7 +19,6 @@ Gwangju Institute of Science and Technology (GIST)
 
 
 <br/>
-<br/>
 <img align="left" src="./../images/unist.png" height="100x" width="100px">
 
 Ulsan National Institute of Science and Technology (UNIST)
@@ -29,7 +28,6 @@ Ulsan National Institute of Science and Technology (UNIST)
   August 2021 - February 2022 (drop out)
 
 
-<br/>
 <br/>
 <img align="left" src="./../images/hgu.png" height="100x" width="100px">
 
