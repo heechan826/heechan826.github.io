@@ -11,21 +11,27 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+- Gwangju Institute of Science and Technology (GIST)
+* Master Student in Artificial Intenlligence Graduate School (AIGS)
+* March 2022 - February 2024
 
-Work experience
+- Ulsan National Institute of Science and Technology (UNIST)
+* Master Student in Artificial Intenlligence Graduate School (AIGS)
+* August 2021 - February 2022 (drop out)
+
+- Handong Global University
+* Bachelor of Science in Computer Science and Life Science (double major)
+* February 2016 - February 2021
+
+Teaching
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Fall 2021: Teaching Assistant
+  * UNIST
+  * Computer Architecture
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Fall 2020: Teaching Assistant
+  * Handong Global University
+  * Computer Architecture
   
 Skills
 ======
@@ -39,18 +45,6 @@ Skills
 Publications
 ======
   <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
