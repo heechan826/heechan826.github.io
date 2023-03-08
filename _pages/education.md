@@ -9,7 +9,7 @@ author_profile: true
 # Education
 <hr/>
 
-<img align="left" src="./../images/gist.jpg" height="100x" width="100px"> 
+<img align="left" src="./../images/gist.jpg" height="140x" width="140px"> 
 
 **Gwangju Institute of Science and Technology (GIST)**
 
@@ -19,7 +19,7 @@ author_profile: true
 
 
 <br/>
-<img align="left" src="./../images/unist.png" height="100x" width="100px">
+<img align="left" src="./../images/unist.png" height="140x" width="140px">
 
 **Ulsan National Institute of Science and Technology (UNIST)**
 
@@ -29,7 +29,7 @@ author_profile: true
 
 
 <br/> 
-<img align="left" src="./../images/hgu.png" height="100x" width="100px">
+<img align="left" src="./../images/hgu.png" height="140x" width="140px">
 
 **Handong Global University**
 
