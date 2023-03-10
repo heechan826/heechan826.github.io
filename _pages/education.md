@@ -19,4 +19,4 @@ author_profile: true
 
 * Handong Global University
   * Bachelor of Science in Computer Science and Life Science (double major)
-  * February 2016 - February 2021
+  * February 2016 - February 2021 
