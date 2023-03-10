@@ -11,7 +11,7 @@ author_profile: true
 
 * Gwangju Institute of Science and Technology (GIST) 
   * M.S Student in Artificial Intenlligence Graduate School
-  * February 2022 - Current 
+  * February 2022 - Current (Expected: February 2024)
 
 * Ulsan National Institute of Science and Technology (UNIST)
   * Master Student in Artificial Intenlligence Graduate School
