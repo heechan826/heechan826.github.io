@@ -18,8 +18,3 @@ author_profile: true
   * Handong CSEE Capstone Project
   * @Handong Global University, BCI Lab
   * July 2019 - June 2020
-
-
-
-
-* To be updated
