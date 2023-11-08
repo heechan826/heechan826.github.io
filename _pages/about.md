@@ -21,4 +21,4 @@ My research interests include human computer interaction (HCI), deep learning, c
 
 # Research Goal
 <hr/>
-I hope that my research could contribute on making human lives better
+I hope that my research could contribute on making human lives better.
