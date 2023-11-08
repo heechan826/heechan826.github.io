@@ -17,7 +17,7 @@ Also, I achieved my bachelor's degree of science in computer science and life sc
 
 # Research Interest
 <hr/>
-My research interests include human computer interaction (HCI), deep learning, computer vision. 
+My research interests include Human Computer Interaction (HCI), Deep Learning, Computer Vision. 
 
 # Research Goal
 <hr/>
