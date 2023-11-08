@@ -9,7 +9,7 @@ author_profile: true
 # Education
 <hr/>
 
-* Gwangju Institute of Science and Technology (GIST) 
+* Gwangju Institute of Science and Technology (GIST)  
   * M.S Student in Artificial Intenlligence Graduate School
   * February 2022 - Current (Expected: February 2024)
 
