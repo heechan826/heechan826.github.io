@@ -1,3 +1,4 @@
+<!--
 ---
 permalink: /education/
 title: ""
@@ -7,6 +8,7 @@ author_profile: true
 #  - /education.html
 ---
 # Education
+-->
 <hr/>
 
 * Gwangju Institute of Science and Technology (GIST)
